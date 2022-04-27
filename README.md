@@ -7,7 +7,7 @@
 *   Muhammad Fadil Maulana Akbar - 1301204297
 *   Muhammad Sayyid Aqilah - 1301204047
 
-# requirement 
+# Requirement 
 ```
 pip install numpy 
 pip install pandas
