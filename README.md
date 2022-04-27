@@ -14,7 +14,7 @@ pip install pandas
 pip install matplotlib 
 ```
 
-link video : https://youtu.be/qchEumSG3XY
-link google colab : https://colab.research.google.com/drive/1SLhGVFu6y9EEV1aM8loG01hF7JC6Owq5#scrollTo=dZ21Cw03Kh3P
-link laporan : https://docs.google.com/document/d/1hqvfM07X6P2aAlLcmrA6ry8ZqKVajKTLEpCkv5IJY1M/edit
+* link video : https://youtu.be/qchEumSG3XY 
+* link google colab : https://colab.research.google.com/drive/1SLhGVFu6y9EEV1aM8loG01hF7JC6Owq5#scrollTo=dZ21Cw03Kh3P
+* link laporan : https://docs.google.com/document/d/1hqvfM07X6P2aAlLcmrA6ry8ZqKVajKTLEpCkv5IJY1M/edit
 
